@@ -1,0 +1,3 @@
+i gen a file to remote
+ok
+EO
